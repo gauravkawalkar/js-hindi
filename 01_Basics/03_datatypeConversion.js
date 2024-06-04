@@ -35,3 +35,4 @@ console.log(1+2+"2") //op is 32 as 1 st is integer so 1+2 get added and then con
 
 //console.log(3+4%6*6)// this is messy conversion dont use this type of conversion instead use (3+4)
 //console.log(+true) bad conversion
+// new learning is that it is compalsory to write the commit message if dont we are unable to push changes
