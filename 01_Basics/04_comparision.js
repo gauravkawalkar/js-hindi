@@ -8,4 +8,4 @@ console.log(null >= 0) // here op will be true as >= works differtly first here 
  
 
 // === this check very intensively i.e it check the datatype too
-console.log("2" === 2) // as it check to strict so the op will be false as it check dataype to
+console.log("2" === 2) // as it check to strict so the op will be false as it check dataype too
