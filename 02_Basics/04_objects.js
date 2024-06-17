@@ -62,7 +62,7 @@ users[1].email // first value is accessed
 
 console.log(Object.keys(tinderuser)) // used to access the keys of an objects
 
-console.log(Object.values(tinderuser)) // used to access the values of the objects
+console.log(Object.values(tinderuser)) // used to access the values of the objects 
 
 
 
