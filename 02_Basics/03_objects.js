@@ -3,7 +3,7 @@
 // Object.create // it is created as constructor (singleton object)
 
 // object literals
-//const jsuser = { } ...object declared in literals
+//const jsuser = {content } ...object declared in literals
 
 
 const mysym = Symbol("Key1") // symbol is a datatype which is declared like this
