@@ -24,7 +24,7 @@ console.log (JsUser["email"]) // another form of accesing the object for ex "ful
 console.log(JsUser[mysym]) // in this wat the symbol is accesed in object for printing
 
 // we can update the data in object very easily
-JsUser.email = "ramkawalkar" // email is update
+JsUser.email = "saurabhkawalkar" // email is update
 //Object.freeze(JsUser) // the object is freeze no changes can be done after this in object
 
 // in objects we can define. the functions too 
